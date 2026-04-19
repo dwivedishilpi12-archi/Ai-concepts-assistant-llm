@@ -1,0 +1,5 @@
+Q: What is Artificial Intelligence?
+A: Artificial Intelligence is the simulation of human intelligence in machines.
+
+Q: What is Machine Learning?
+A: Machine Learning is a method where computers learn from data.
