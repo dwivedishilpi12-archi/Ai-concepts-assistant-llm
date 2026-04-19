@@ -2,7 +2,7 @@
 
 This project is a mini language model built using PyTorch that answers basic AI-related questions.
 
-# Features
+# Features 
 - Custom AI dataset
 - Character-level tokenizer
 - Text generation
